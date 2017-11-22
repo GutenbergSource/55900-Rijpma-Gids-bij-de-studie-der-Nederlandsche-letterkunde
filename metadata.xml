@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <rdf:Description>
+      <dc:title>Gids bij de studie der Nederlandsche letterkunde</dc:title>
+      <dc:creator>Enneus Rijpma (1879–1946)</dc:creator>
+      <dc:publisher>Project Gutenberg, Urbana, Illinois, USA., 2017-11-07</dc:publisher>
+      <dc:date>2017-11-07</dc:date>
+      <dc:rights>Dit eBoek is voor kosteloos gebruik door iedereen overal, met vrijwel geen beperkingen van welke soort dan ook. U mag het kopiëren, weggeven of hergebruiken onder de voorwaarden van de Project Gutenberg Licentie bij dit eBoek of on-line op www.gutenberg.org.
+Dit eBoek is geproduceerd door het on-line gedistribueerd correctieteam op www.pgdp.net.
+</dc:rights>
+      <dc:subject>Dutch literature -- History and criticism.</dc:subject>
+      <dc:subject>Dutch literature.</dc:subject>
+      <dc:identifier>pg:55900</dc:identifier>
+   </rdf:Description>
+</rdf:RDF>
